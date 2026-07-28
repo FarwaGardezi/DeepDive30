@@ -1,4 +1,4 @@
-# DeepDive30 🧠
+# DeepDive30 
 
 **DeepDive30** is a beginner-friendly, hands-on repository focused on understanding the fundamentals of deep learning by building everything from scratch. Instead of relying on high-level frameworks from the start, this project emphasizes learning the core concepts through plain Python and NumPy, making every step of the learning process transparent.
 
@@ -66,7 +66,7 @@ DeepDive30/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/DeepDive30.git
+git clone https://github.com/FarwaGardezi/DeepDive30.git
 ```
 
 Navigate into the project:
